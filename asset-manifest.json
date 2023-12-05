@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/CSE_482/static/css/main.f855e6bc.css",
-    "main.js": "/CSE_482/static/js/main.6bacf0ce.js",
+    "main.css": "/CSE_482/static/css/main.89164668.css",
+    "main.js": "/CSE_482/static/js/main.e3df6fc2.js",
     "static/js/787.a9f86cd4.chunk.js": "/CSE_482/static/js/787.a9f86cd4.chunk.js",
-    "static/media/logo.svg": "/CSE_482/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/correlationHeatmap.png": "/CSE_482/static/media/correlationHeatmap.704e6d4a2b9db5d3b3fd.png",
+    "static/media/distribution.png": "/CSE_482/static/media/distribution.6ec140bc76045070672a.png",
+    "static/media/fitted.png": "/CSE_482/static/media/fitted.683122667dfd1564a3ff.png",
+    "static/media/outliers.png": "/CSE_482/static/media/outliers.d4611dd7d025b6d67442.png",
+    "static/media/puntReturn.png": "/CSE_482/static/media/puntReturn.d25cb2f2fd80efb9fa58.png",
+    "static/media/schoolPoints.png": "/CSE_482/static/media/schoolPoints.fb43d77570ec30f78515.png",
+    "static/media/bell.png": "/CSE_482/static/media/bell.bd0397cf5df3a75873f4.png",
+    "static/media/conversions.png": "/CSE_482/static/media/conversions.3f36260e6430c56b9991.png",
+    "static/media/prob.png": "/CSE_482/static/media/prob.8bd5c965993b6cab5acb.png",
+    "static/media/avgPoints.png": "/CSE_482/static/media/avgPoints.1aee47851139b3bbe4b7.png",
+    "static/media/hurries.png": "/CSE_482/static/media/hurries.b6e86f72cf523b3621ca.png",
     "index.html": "/CSE_482/index.html",
-    "main.f855e6bc.css.map": "/CSE_482/static/css/main.f855e6bc.css.map",
-    "main.6bacf0ce.js.map": "/CSE_482/static/js/main.6bacf0ce.js.map",
+    "main.89164668.css.map": "/CSE_482/static/css/main.89164668.css.map",
+    "main.e3df6fc2.js.map": "/CSE_482/static/js/main.e3df6fc2.js.map",
     "787.a9f86cd4.chunk.js.map": "/CSE_482/static/js/787.a9f86cd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6bacf0ce.js"
+    "static/css/main.89164668.css",
+    "static/js/main.e3df6fc2.js"
   ]
 }
